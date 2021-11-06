@@ -1,2 +1,2 @@
 # Apostila_python
-pythoin para engenharia
+Python  para engenheiro.
